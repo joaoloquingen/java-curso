@@ -1,4 +1,4 @@
-package AlturaMedia;
+package AlturaMediaPorcentagem;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -13,7 +13,7 @@ public class Main {
         int n = sc.nextInt();
         System.out.println();
 
-        if (n == 0){
+        if (n == 0) {
             System.out.println("Nenhuma instancia de pessoa criada, o programa será encerrado!");
             sc.close();
             return;
@@ -59,7 +59,7 @@ public class Main {
 
         if (n == 1) {
             System.out.print("Só temos os dados do(a) " + nomes.toString() + ", portanto a média da altura será de " + mediaAltura);
-        } else if (n >= 2) {
+        } else {
             System.out.print("A media das alturas é de " + String.format("%.2f", +mediaAltura));
         }
 

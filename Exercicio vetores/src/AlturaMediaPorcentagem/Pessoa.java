@@ -1,4 +1,4 @@
-package AlturaMedia;
+package AlturaMediaPorcentagem;
 
 public class Pessoa {
     private String nome;
@@ -6,8 +6,6 @@ public class Pessoa {
     private double altura;
 
     public Pessoa() {
-        this.nome = nome;
-        this.idade = idade;
         this.altura = altura;
     }
 
