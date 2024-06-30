@@ -1,4 +1,6 @@
-package QuartoHotel;
+package QuartoHotel.application;
+
+import QuartoHotel.entities.Aluguel;
 
 import java.util.Locale;
 import java.util.Scanner;

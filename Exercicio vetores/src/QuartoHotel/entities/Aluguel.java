@@ -1,4 +1,4 @@
-package QuartoHotel;
+package QuartoHotel.entities;
 
 public class Aluguel {
     private String nome;

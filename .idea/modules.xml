@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio listas/Exercicio listas.iml" filepath="$PROJECT_DIR$/Exercicio listas/Exercicio listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio matrizes/Exercicio matrizes.iml" filepath="$PROJECT_DIR$/Exercicio matrizes/Exercicio matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio polimorfismo conta bancaria/Exercicio polimorfismo conta bancaria.iml" filepath="$PROJECT_DIR$/Exercicio polimorfismo conta bancaria/Exercicio polimorfismo conta bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio printf/Exercicio printf.iml" filepath="$PROJECT_DIR$/Exercicio printf/Exercicio printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio vetores/Exercicio vetores.iml" filepath="$PROJECT_DIR$/Exercicio vetores/Exercicio vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+    </modules>
+  </component>
+</project>

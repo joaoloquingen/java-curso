@@ -1,4 +1,6 @@
-package AlturaMediaPorcentagem;
+package AlturaMediaPorcentagem.application;
+
+import AlturaMediaPorcentagem.entities.Pessoa;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package AlturaMediaPorcentagem;
+package AlturaMediaPorcentagem.entities;
 
 public class Pessoa {
     private String nome;
