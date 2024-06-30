@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ListaFuncionarios/src/application" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListaFuncionarios/src/entities" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ListaFuncionarios/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
