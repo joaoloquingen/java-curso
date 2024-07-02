@@ -7,7 +7,7 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Digite a quantidade de linas da matriz: ");
+        System.out.print("Digite a quantidade de linhas da matriz: ");
         int m = sc.nextInt();
         System.out.print("Digite a quantidade de colunas da matriz: ");
         int n = sc.nextInt();

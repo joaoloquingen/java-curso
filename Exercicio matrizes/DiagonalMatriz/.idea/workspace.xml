@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05b16e03-d978-4ac0-bd0f-d2589b1a315f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/Exercicio conta bancaria.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/src/application/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exercicio polimorfismo conta bancaria/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VariosLados/variosLados/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VariosLados/variosLados/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VariosLados/variosLados/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../VariosLados/variosLados/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2icFrr0tUmlGGKXKkOzuiigDHYf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,7 +26,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/jaum/IdeaProjects",
+    "last_opened_file_path": "C:/Users/jaum/Desktop/teste/ExercicioMatriz/LadosMatriz",
     "onboarding.tips.debug.path": "C:/Users/jaum/IdeaProjects/Exercicio matrizes/Diagonal matriz/src/Main.java"
   }
 }]]></component>
@@ -47,16 +40,5 @@
       <updated>1719782162579</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/application/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
