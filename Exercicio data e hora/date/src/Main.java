@@ -6,18 +6,18 @@ import java.time.temporal.ChronoUnit;
 
 public class Main {
     public static void main(String[] args) {
-        LocalDate d04 = LocalDate.parse("2022-07-20");
-        LocalDateTime d05 = LocalDateTime.parse("2022-07-20T01:30:26");
-        Instant d06 = Instant.parse("2022-07-20T01:30:26Z");
+        LocalDate data1 = LocalDate.parse("2022-07-20");
+        LocalDateTime data2 = LocalDateTime.parse("2022-07-20T01:30:26");
+        Instant data3 = Instant.parse("2022-07-20T01:30:26Z");
 
-        LocalDate pastWeekDate = d04.minusDays(7);
-        LocalDate nextWeekDate = d04.plusDays(7);
+        LocalDate pastWeekDate = data1.minusDays(7);
+        LocalDate nextWeekDate = data1.plusDays(7);
 
-        LocalDateTime pastWeekLocalDate = d05.minusDays(7);
-        LocalDateTime nextWeekLocalDate = d05.plusDays(7);
+        LocalDateTime pastWeekLocalDate = data2.minusDays(7);
+        LocalDateTime nextWeekLocalDate = data2.plusDays(7);
 
-        Instant pastWeekInstant = d06.minus(7, ChronoUnit.DAYS);
-        Instant nextWeekInstant = d06.plus(7, ChronoUnit.DAYS);
+        Instant pastWeekInstant = data3.minus(7, ChronoUnit.DAYS);
+        Instant nextWeekInstant = data3.plus(7, ChronoUnit.DAYS);
 
         System.out.println("pastWeekDate = " + pastWeekDate);
         System.out.println("nextWeekDate = " + nextWeekDate);
@@ -30,10 +30,10 @@ public class Main {
         System.out.println("pastWeekInstant = " + pastWeekInstant);
         System.out.println("nextWeekInstant = " + nextWeekInstant);
 
-        Duration t1 = Duration.between(pastWeekDate.atStartOfDay(), d04.atStartOfDay());
-        Duration t2 = Duration.between(pastWeekLocalDate, d05);
-        Duration t3 = Duration.between(pastWeekInstant, d06);
-        Duration t4 = Duration.between(d06, pastWeekInstant);
+        Duration t1 = Duration.between(pastWeekDate.atStartOfDay(), data1.atStartOfDay());
+        Duration t2 = Duration.between(pastWeekLocalDate, data2);
+        Duration t3 = Duration.between(pastWeekInstant, data3);
+        Duration t4 = Duration.between(data3, pastWeekInstant);
         System.out.println();
 
         System.out.println("t1 dias = " + t1.toDays());
